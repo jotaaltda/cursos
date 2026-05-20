@@ -1,6 +1,6 @@
 import os
 
-palavra = 'Casa'.upper()
+palavra = 'Tumbalaqbatungsahang'.upper()
 letras_acertadas = ''
 
 tentativas = 0
